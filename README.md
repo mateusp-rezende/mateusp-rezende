@@ -19,7 +19,7 @@
   <a href="https://mateus-projetos.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  />
   </a>
-  <a href="mailto:SEU.EMAIL@dominio.com">
+  <a href="mailto:mateusdepaularezende@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo"  />
   </a>
 </div>
